@@ -1,11 +1,11 @@
-# 🧪 Teste Técnico - Desenvolvedor Back-end Pleno - Sizebay
+# Teste Técnico - Desenvolvedor Back-end Pleno - Sizebay
 
 Bem-vindo ao desafio técnico para a vaga de **Desenvolvedor Back-end** na **Sizebay**!  
 Aqui você desenvolverá uma API RESTful para simular o gerenciamento de produtos e estoque de um e-commerce.
 
 ---
 
-## 🛍️ Desafio
+##  Desafio
 
 Desenvolver uma API RESTful para gerenciar:
 
@@ -18,13 +18,13 @@ Você pode usar **qualquer framework Java** (Spring Boot, Quarkus, Micronaut etc
 
 ---
 
-## 📚 Funcionalidades
+## Funcionalidades
 
-### ✅ Marcas e Categorias
+### Marcas e Categorias
 - CRUD completo
 - Campos: `nome`, `slug`, `ativo`
 
-### ✅ Produtos
+### Produtos
 - CRUD completo
 - Campos:
   - `nome`
@@ -36,7 +36,7 @@ Você pode usar **qualquer framework Java** (Spring Boot, Quarkus, Micronaut etc
   - `tamanhos_disponiveis`
   - `cores_disponiveis`
 
-### ✅ Estoque
+### Estoque
 - Registro de entradas e saídas por SKU
 - Campos:
   - `sku`
@@ -47,7 +47,7 @@ Você pode usar **qualquer framework Java** (Spring Boot, Quarkus, Micronaut etc
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 17+
 - Spring Boot (ou outro framework à sua escolha)
@@ -59,7 +59,7 @@ Você pode usar **qualquer framework Java** (Spring Boot, Quarkus, Micronaut etc
 
 ---
 
-## 🐳 Como Executar Localmente com Docker
+## Como Executar Localmente com Docker
 
 ### 1. Build do projeto
 
@@ -94,7 +94,7 @@ docker-compose up -d
 
 ---
 
-## 🧪 Executar os Testes
+## Executar os Testes
 
 Se houver testes implementados:
 
@@ -134,7 +134,7 @@ Responda às perguntas abaixo neste README (ou em um arquivo separado, ex: `RESP
 
 ---
 
-## 🎯 Requisitos Obrigatórios
+## Requisitos Obrigatórios
 
 - API RESTful funcional e documentada
 - Dockerfile e docker-compose funcionais
@@ -144,7 +144,7 @@ Responda às perguntas abaixo neste README (ou em um arquivo separado, ex: `RESP
 
 ---
 
-## 🌟 Pontos Extras
+## Pontos Extras
 
 - Autenticação (ex: JWT)
 - Paginação e filtros
@@ -155,7 +155,7 @@ Responda às perguntas abaixo neste README (ou em um arquivo separado, ex: `RESP
 
 ---
 
-## 📬 Submissão
+## Submissão
 
 - Faça um **fork deste repositório**
 - Suba seu código em uma branch `main` ou `develop`
@@ -167,7 +167,7 @@ Responda às perguntas abaixo neste README (ou em um arquivo separado, ex: `RESP
 
 ---
 
-## 🧡 Obrigado
+## Obrigado
 
 Agradecemos sua dedicação e tempo. Boa sorte!  
 Esperamos te ver com a gente na Sizebay! 🚀
